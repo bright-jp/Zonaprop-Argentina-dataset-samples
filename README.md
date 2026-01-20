@@ -3,7 +3,7 @@
 <h2>1,775件のレコードからなるサンプルデータセット</h2>
 
 <a href="https://brightdata.jp">
-    <img src="https://github.com/luminati-io/Zonaprop-Argentina-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-jp/Zonaprop-Argentina-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 この **Zonaprop Argentina Properties Dataset Sample** には **1,775件のレコード** が含まれており、**Bright Data API** を使用して抽出されました。
