@@ -1,4 +1,4 @@
-# Zonaprop Argentina Properties Dataset Sample
+# Zonaprop Argentina Properties データセットサンプル
 
 <h2>1,775件のレコードからなるサンプルデータセット</h2>
 
